@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: sans-serif;
+  text-align: center;
+  border: 3px solid rgb(241, 82, 109);
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 250px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+}
